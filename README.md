@@ -1,1 +1,3 @@
-This repository will contain all the things I read, visit and do regarding competitive programming, hope that it can be useful.
+### Basic Description
+
+This repository is used to store my solutions to programming problems in platforms such as CodeForces, LeetCode...
