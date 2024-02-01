@@ -1,3 +1,3 @@
-### Basic Description
+### What the repo contains
 
-This repository is used to store my solutions to programming problems in platforms such as CodeForces, LeetCode...
+My own solutions to problems of programming problems such as CodeForces, LeetCode, USACO, and more.
